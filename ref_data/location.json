@@ -1,0 +1,74 @@
+{
+  "SYDNEY":{
+    "latitude": -33.8688197,
+    "longitude": 151.2092955,
+    "elevation": 25
+
+  },
+  "ADELAIDE":{
+    "latitude": -34.9284989,
+    "longitude": 138.6007456,
+    "elevation": 45
+
+  },
+  "BRISBANE":{
+    "latitude": -27.4697707,
+    "longitude": 153.0251235,
+    "elevation": 27
+
+  },
+  "CAIRNS":{
+    "latitude": -16.9185514,
+    "longitude": 145.7780548,
+    "elevation": 7.45
+
+  },
+  "CANBERRA":{
+    "latitude": -35.3075,
+    "longitude": 149.124417,
+    "elevation": 597
+
+  },
+  "DARWIN":{
+    "latitude": -12.4634403,
+    "longitude": 130.8456418,
+    "elevation": 31
+
+  },
+  "GOLDCOAST":{
+    "latitude": -28.016667,
+    "longitude": 153.4,
+    "elevation": 1
+
+  },
+  "HOBART":{
+    "latitude": -42.8821377,
+    "longitude": 147.3271949,
+    "elevation": 8
+
+  },
+  "LONDON":{
+    "latitude": 51.5073509,
+    "longitude": -0.1277583,
+    "elevation": 8
+
+  },
+  "MELBOURNE":{
+    "latitude": -37.813611,
+    "longitude": 144.963056,
+    "elevation": 10
+
+  },
+  "NEWYORK":{
+    "latitude": 40.7127837,
+    "longitude": -74.0059413,
+    "elevation": 10
+
+  },
+  "PERTH":{
+    "latitude": -31.9505269,
+    "longitude": 115.8604572,
+    "elevation": 16
+
+  }
+}
